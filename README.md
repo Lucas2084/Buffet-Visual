@@ -1,4 +1,6 @@
 # Buffet Visual
+## Diseñado por María Chamizo Prieto
+## Programado por Lucas Lorente Arjona 
 
 Extensión para observar qué ves mientras comes y convertir el tiempo en un
 plato de vídeos, imágenes, hashtags y sabores.
